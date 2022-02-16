@@ -1,0 +1,36 @@
+
+------ RESUMO DE COMPRAS ------ 
+
+  Nome do Produto: Celular
+  Preço Unitário: 3811
+  Quantidade: 1
+  Desconto: 20%
+  Garantia: 3 ANOS 
+  Modo de Entrega: Frete Express
+  Endereço: Rua XXX, Bairro yyy - 00
+  Preço Total: 3363.8 Reais 
+
+    
+------ RESUMO DE COMPRAS ------ 
+
+  Nome do Produto: Bicicleta
+  Preço Unitário: 1721
+  Quantidade: 1
+  Desconto: Sem Desconto
+  Garantia: SEM GARANTIA
+  Modo de Entrega: Frete Convencional
+  Endereço: Rua XXX, Bairro yyy - 00
+  Preço Total: 1731.0 Reais 
+
+    
+------ RESUMO DE COMPRAS ------ 
+
+  Nome do Produto: Cadeira de Praia
+  Preço Unitário: 120
+  Quantidade: 5
+  Desconto: 10%
+  Garantia: SEM GARANTIA
+  Modo de Entrega: Retirar na Loja
+  Preço Total: 588.0 Reais 
+
+    
